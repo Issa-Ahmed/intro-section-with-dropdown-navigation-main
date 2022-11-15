@@ -185,7 +185,7 @@ body {
 }
 
 /* Mobile styles */
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 580px) {
   body {
     position: relative;
     overflow-x: hidden;
